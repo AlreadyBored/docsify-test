@@ -1,0 +1,3 @@
+- ## [Main docs page](README.md)
+- Features
+  - [CV](docs/cv.md)
