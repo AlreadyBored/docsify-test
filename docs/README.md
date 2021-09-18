@@ -1,4 +1,3 @@
-# List of features:
+Docs:
 
-* [CV](./docs/cv.md)
-* [Clone checker](./docs/clone-checker.md)
+https://alreadybored.github.io/docsify-test/
