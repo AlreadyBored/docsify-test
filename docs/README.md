@@ -1,4 +1,4 @@
-# List of features:
+# Спиcок фич:
 
-* [CV](./docs/cv.md)
-* [Clone checker](./docs/clone-checker.md)
+* [CV](./docs/ru/cv.md)
+* [Clone checker](./docs/ru/clone-checker.md)

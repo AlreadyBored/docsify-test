@@ -1,4 +1,4 @@
-# Clone checker
+# Clone checker (ENGLISH)
 
 Clone checker allows you to find partially or completely copied solutions with an acceptable degree of reliability.
 

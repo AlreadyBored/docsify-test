@@ -1,4 +1,4 @@
-- ## [Main docs page](README.md)
-- Features
-  - [CV](docs/cv.md)
-  - [Clone checker](docs/clone-checker.md)
+- ## [Главная страница](./README.md)
+- Фичи
+  - [CV](./docs/ru/cv.md)
+  - [Clone checker](./docs/ru/clone-checker.md)
